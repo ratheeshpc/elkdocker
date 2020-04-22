@@ -1,4 +1,4 @@
-# elkdocker
+# ELK Setup Based on Docker
 Docker based ELK deployement
 
 Keep all the files under one folder and run docker-compose up
